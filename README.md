@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on SaaS & PaaS projects
-  - Mainly with: Crystal, Javascript, Node.js, Docker, Kubernetes & other devOps tools
+  - Mainly with: Elixir, Javascript, Node.js, Crystal, Docker, Kubernetes & other devOps tools
 - 📫 How to reach me: https://www.linkedin.com/in/ntalle/
 
 <!--

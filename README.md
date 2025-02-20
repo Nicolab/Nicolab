@@ -27,4 +27,7 @@ Here are some ideas to get you started:
 
 <br />
 
-_NOTE: Top languages does not indicate my skill level or something like that, it's a Github metric of which languages I have the most code on Github._
+
+<sup>_NOTE:_</sup>
+<br /><sup>_* Top languages does not indicate my skill level or something like that, it's a GitHub metric of which languages I have the most code on GitHub._</sup>
+<br /><sup>_* Top x% represents my ranking among all GitHub users, calculated from a combination of GitHub metrics related to the contributions and activities on GitHub (lower percentage is better)._</sup>

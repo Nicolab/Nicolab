@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on SaaS & PaaS projects
-  - Mainly with: Typescript / JS, Node.js / Bun.js, Vue.js, React.js, Astro, N8N, AI / LLMs, Elixir, Crystal, Docker, Kubernetes & other devOps tools
+  - Mainly with: AI / LLMs, Rust, Typescript / JS, Node.js / Bun.js, Vue.js, React.js, Astro, Tauri, Python, Elixir, N8N, Docker, Kubernetes & other devOps tools
 - 📫 How to reach me: https://www.linkedin.com/in/ntalle/
 
 <!--
